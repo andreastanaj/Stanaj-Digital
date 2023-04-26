@@ -1,2 +1,2 @@
-# projects
+# Projects
 My personal projects / portofolio
